@@ -12,30 +12,30 @@ These data sets will be used to visualize and determine which county provides be
 
 3.	Hypothesis:
 
-###### •	Whether the People in Bronx County are less likely to get affected by COVID-19 than People in Erie County.
-### •	Does age group 20- 44 are hospitalized less as compared to age group 55 -64 because of younger age.
-### •	Whether INDEPENDENT hospital network in Erie County have less treatment scale than CATHOLIC HEALTH network and KALEIDA HEALTH network.
-### •	Does less hospitalization happening in second quarter in Bronx County as compared to first quarter because better prevention measures have been taken.
-### •	Whether patients in ICU are more likely to expire in Bronx County as compared to Erie County.
-### •	Whether patients affected by COVID are more likely to expire in Bronx County as compared to Erie County.
-### •	Weather patients 
+##### •	Whether the People in Bronx County are less likely to get affected by COVID-19 than People in Erie County.
+##### •	Does age group 20- 44 are hospitalized less as compared to age group 55 -64 because of younger age.
+##### •	Whether INDEPENDENT hospital network in Erie County have less treatment scale than CATHOLIC HEALTH network and KALEIDA HEALTH network.
+##### •	Does less hospitalization happening in second quarter in Bronx County as compared to first quarter because better prevention measures have been taken.
+##### •	Whether patients in ICU are more likely to expire in Bronx County as compared to Erie County.
+##### •	Whether patients affected by COVID are more likely to expire in Bronx County as compared to Erie County.
+##### •	Weather patients 
 
 4.	Links:
 
-Primary Dataset: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Hospitalizations/jw46-jpb7
-Secondary Dataset: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
+##### Primary Dataset: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Hospitalizations/jw46-jpb7
+##### Dataset: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
 
 5.	Records:
 
-•	In the primary Data set we have 171K Rows and 37 columns.
-•	In the secondary data set we have 67.8K Rows and 8 columns.
+##### •	In the primary Data set we have 171K Rows and 37 columns.
+##### •	In the secondary data set we have 67.8K Rows and 8 columns.
 
 
 6.	Visualization: 
 
 In order to get reliable visualization, we will first clean the dataset using python.
 Further, we will be using Tableau as our visualization tool due to its salient features like:
-•	Intuitive dashboard with ability to create representations simply using drag and drop.
-•	Ability of the Tableau to recommend and select best visualization based on data and attributes selected.
-•	Capability to work with multiple data sources and handle large datasets.
-•	Easy to try multiple visualization types and choose one that best serves the interests.
+##### •	Intuitive dashboard with ability to create representations simply using drag and drop.
+##### •	Ability of the Tableau to recommend and select best visualization based on data and attributes selected.
+##### •	Capability to work with multiple data sources and handle large datasets.
+##### •	Easy to try multiple visualization types and choose one that best serves the interests.
