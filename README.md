@@ -12,7 +12,7 @@ These data sets will be used to visualize and determine which county provides be
 
 3.	Hypothesis:
 
-#### •	Whether the People in Bronx County are less likely to get affected by COVID-19 than People in Erie County.
+###### •	Whether the People in Bronx County are less likely to get affected by COVID-19 than People in Erie County.
 ### •	Does age group 20- 44 are hospitalized less as compared to age group 55 -64 because of younger age.
 ### •	Whether INDEPENDENT hospital network in Erie County have less treatment scale than CATHOLIC HEALTH network and KALEIDA HEALTH network.
 ### •	Does less hospitalization happening in second quarter in Bronx County as compared to first quarter because better prevention measures have been taken.
