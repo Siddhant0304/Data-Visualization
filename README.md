@@ -1,4 +1,4 @@
-# Visualization of the effects of covid 19 in hospitalization in new York state![image](https://user-images.githubusercontent.com/39940767/211262915-f2f78a70-533e-4ace-938d-ba9db7364edd.png)
+# Visualization of the effects of covid 19 in hospitalization in new York state
 
 
 1.	Project Description:
