@@ -33,6 +33,8 @@ These data sets will be used to visualize and determine which county provides be
 
 6.	Visualization: 
 
+##### Visualization Storyboard: https://public.tableau.com/views/Project-VisualizingHospitalServicesinNewYorkCounty/Story1?:language=en-US&:display_count=n&:origin=viz_share_link 
+
 In order to get reliable visualization, we will first clean the dataset using python.
 Further, we will be using Tableau as our visualization tool due to its salient features like:
 ##### •	Intuitive dashboard with ability to create representations simply using drag and drop.
